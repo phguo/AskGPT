@@ -1,6 +1,12 @@
 # AskGPT
 
-This is an Alfred Workflow that enables you to ask ChatGPT from anywhere while typing.
+This is an **Alfred Workflow** that enables you to ask **ChatGPT** from anywhere while typing. With this Workflow, you can activate it in any window just by typing `\\gpt`, and it will swiftly generate the content you desire based on your commands. It's like having a genie in a bottle that instantly fulfills your commands!
+
+---
+
+<img src="https://user-images.githubusercontent.com/10487750/227745921-6d163359-f660-4ec7-9856-dd67dd8a8034.png"  width="30%" height="30%" alt="A man with his feet on the table, looking at automatically generated program code, cyberpunk">
+
+by DALL·E *"A man with his feet on the table, looking at automatically generated program code, cyberpunk"*
 
 ## Getting Start
 
@@ -18,9 +24,15 @@ You can access the Workflow by Alfred keyword `gpt` or typing `\\gpt` anywhere. 
 
 Let AskGPT write an email for you:
 
+https://user-images.githubusercontent.com/10487750/227745448-61090c59-6e62-4169-aabf-2923a91a4724.mov
+
 Let AskGPT write code for you:
 
+https://user-images.githubusercontent.com/10487750/227745446-aa4f5151-c247-4037-b3c9-3ace6fde7c2f.mov
+
 Let AskGPT check grammar errors (from clipboard) for you:
+
+https://user-images.githubusercontent.com/10487750/227745441-bd256538-083f-4e14-b342-6357a69782d7.mov
 
 ## Changelog
 
