@@ -24,15 +24,15 @@ You can access the Workflow by Alfred keyword `gpt` or typing `\\gpt` anywhere. 
 
 Let AskGPT write an email for you:
 
-https://user-images.githubusercontent.com/10487750/227745448-61090c59-6e62-4169-aabf-2923a91a4724.mov
+![email](https://github.com/phguo/AskGPT/blob/main/video/email.gif)
 
 Let AskGPT write code for you:
 
-https://user-images.githubusercontent.com/10487750/227745446-aa4f5151-c247-4037-b3c9-3ace6fde7c2f.mov
+![hello](https://github.com/phguo/AskGPT/blob/main/video/hello.gif)
 
 Let AskGPT check grammar errors (from clipboard) for you:
 
-https://user-images.githubusercontent.com/10487750/227745441-bd256538-083f-4e14-b342-6357a69782d7.mov
+![grammar](https://github.com/phguo/AskGPT/blob/main/video/grammar.gif)
 
 ## Changelog
 
