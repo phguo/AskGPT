@@ -22,6 +22,9 @@ by DALL·E *"A man with his feet on the table, looking at automatically generate
 
 ## Usage
 
+<img src="https://github.com/phguo/AskGPT/blob/main/video/alfred.png"  width="60%" height="60%">
+
+
 You can access the Workflow by Alfred keyword `gpt` or typing `\\gpt` anywhere. The following are some use cases.
 
 Let AskGPT write an email for you:
@@ -46,7 +49,7 @@ Let AskGPT check grammar errors (from clipboard) for you:
 
 ## TODO
 
-- [ ] ...
+- [ ] Save customized prompt (suggested by [tommyxps at Product Hunt](https://www.producthunt.com/posts/askgpt-an-alfred-workflow?comment=2314975))
 
 ## License
 
