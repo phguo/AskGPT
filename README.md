@@ -1,5 +1,7 @@
 # AskGPT
 
+<a href="https://www.producthunt.com/posts/askgpt-an-alfred-workflow?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-askgpt&#0045;an&#0045;alfred&#0045;workflow" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=385969&theme=light" alt="AskGPT&#0058;&#0032;An&#0032;Alfred&#0032;Workflow - Ask&#0032;ChatGPT&#0032;from&#0032;anywhere&#0032;while&#0032;typing | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 This is an **Alfred Workflow** that enables you to ask **ChatGPT** from anywhere while typing. With this Workflow, you can activate it in any window just by typing `\\gpt`, and it will swiftly generate the content you desire based on your commands. It's like having a genie in a bottle that instantly fulfills your commands!
 
 ---
