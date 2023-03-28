@@ -49,6 +49,7 @@ Let AskGPT check grammar errors (from clipboard) for you:
 
 ## TODO
 
+- [ ] Preserve context (number of problems, delay in time, manually release, suggested by [tommyxps](https://www.v2ex.com/t/927205#r_12870341))
 - [ ] Save customized prompt (suggested by [tommyxps at Product Hunt](https://www.producthunt.com/posts/askgpt-an-alfred-workflow?comment=2314975))
 
 ## License
