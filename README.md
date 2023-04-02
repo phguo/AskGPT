@@ -41,22 +41,24 @@ Let AskGPT check grammar errors (from clipboard) for you:
 
 ## Changelog
 
-- [v0.5](https://github.com/phguo/AskGPT/releases/tag/v0.5) - Mar. 26, 2023
-  - The first release.
-  - Activate by Alfred keyword `gpt`.
-  - Activete by typing `\\gpt` anywhere.
-  - Access clipbord content by "`clip`".
-- [v0.6](https://github.com/phguo/AskGPT/releases/tag/v0.6) - Apr. 2, 2023
+[v0.6](https://github.com/phguo/AskGPT/releases/tag/v0.6) - Apr. 2, 2023
   - Support context.
   - Support user defined `model` and `temprature`.
   - Support user defined `roles`.
   - Move configuration except `API_KEY` and `PYTHON_ENV` to Alfred 5's [User Configuration](https://www.alfredapp.com/help/workflows/user-configuration/) page.
 
+[v0.5](https://github.com/phguo/AskGPT/releases/tag/v0.5) - Mar. 26, 2023
+  - The first release.
+  - Activate by Alfred keyword `gpt`.
+  - Activete by typing `\\gpt` anywhere.
+  - Access clipbord content by "`clip`".
+
 ## TODO
 
+- [ ] Automaticly update of the Workflow
 - [ ] Terminate output when the window you are using is changed
-- [x] Preserve context (number of problems, delay in time, manually release, suggested by [tommyxps](https://www.v2ex.com/t/927205#r_12870341))
-- [x] Save customized prompt (suggested by [tommyxps at Product Hunt](https://www.producthunt.com/posts/askgpt-an-alfred-workflow?comment=2314975))
+- [x] **[v0.6](https://github.com/phguo/AskGPT/releases/tag/v0.6)**, Preserve context (number of problems, delay in time, manually release, suggested by [tommyxps](https://www.v2ex.com/t/927205#r_12870341))
+- [x] **[v0.6](https://github.com/phguo/AskGPT/releases/tag/v0.6)**, Save customized prompt (suggested by [tommyxps at Product Hunt](https://www.producthunt.com/posts/askgpt-an-alfred-workflow?comment=2314975))
 
 ## License
 
