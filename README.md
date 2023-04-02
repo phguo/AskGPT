@@ -43,7 +43,7 @@ Let AskGPT check grammar errors (from clipboard) for you:
 
 [v0.6](https://github.com/phguo/AskGPT/releases/tag/v0.6) - Apr. 2, 2023
 
-<img src="https://raw.githubusercontent.com/phguo/AskGPT/main/video/v0.6_User_Configuration.png"  width="40%" height="40%">
+<img src="https://raw.githubusercontent.com/phguo/AskGPT/main/video/v0.6_User_Configuration.png"  width="70%" height="70%">
 
   - Support context.
   - Support user defined `model` and `temprature`.
