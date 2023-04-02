@@ -55,6 +55,7 @@ Let AskGPT check grammar errors (from clipboard) for you:
 
 ## TODO
 
+- [ ] Detect invalid configuration
 - [ ] Automaticly update of the Workflow
 - [ ] Terminate output when the window you are using is changed
 - [x] **[v0.6](https://github.com/phguo/AskGPT/releases/tag/v0.6)**, Preserve context (number of problems, delay in time, manually release, suggested by [tommyxps](https://www.v2ex.com/t/927205#r_12870341))
