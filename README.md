@@ -15,12 +15,10 @@ by DALL·E *"A man with his feet on the table, looking at automatically generate
 - Make sure you are using **Alfred 5**.
 - Download and install "AskGPT" from https://github.com/phguo/AskGPT/releases.
 - Set the required Environment Variables (click the top-right [x] icon):
-
   - `API_KEY`: obtain one from https://platform.openai.com/account/api-keys.
   - `PYTHON_ENV`: it will be like `/Users/<user_name>/miniconda/bin/python` if you follow the following steps.
-
       - Install Python from https://docs.conda.io/en/latest/miniconda.html.
-  - Install the required Python packages by `pip install openai keyboard pyperclip`.
+      - Install the required Python packages by `pip install openai keyboard pyperclip`.
 
 ## Usage
 
