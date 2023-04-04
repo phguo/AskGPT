@@ -42,7 +42,7 @@ Let AskGPT check grammar errors (from clipboard) for you:
 ## Changelog
 
 [v0.6.1](https://github.com/phguo/AskGPT/releases/tag/v0.6.1) - Apr. 4, 2023
-  - Fix #5 that are related to the roles parser.
+  - Fix [#5](https://github.com/phguo/AskGPT/issues/5) that are related to the roles parser.
   - Add a configuration for printing user-inputted content.
 
 [v0.6](https://github.com/phguo/AskGPT/releases/tag/v0.6) - Apr. 2, 2023
