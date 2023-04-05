@@ -13,12 +13,15 @@ by DALL·E *"A man with his feet on the table, looking at automatically generate
 ## Getting Start
 
 - Make sure you are using **Alfred 5**.
+- Make sure Alfred 5 has been granted in "System Preferences -> Security & Privacy -> Privacy Tab -> Accessibility".
 - Download and install "AskGPT" from https://github.com/phguo/AskGPT/releases.
 - Set the required Environment Variables (click the top-right [x] icon):
   - `API_KEY`: obtain one from https://platform.openai.com/account/api-keys.
-  - `PYTHON_ENV`: it will be like `/Users/<user_name>/miniconda/bin/python` if you follow the following steps.
+  - `PYTHON_ENV`: it will be like `/Users/<user_name>/miniconda3/bin/python` if you follow the following steps.
       - Install Python from https://docs.conda.io/en/latest/miniconda.html.
       - Install the required Python packages by `pip install openai keyboard pyperclip`.
+
+This project has only been tested on macOS Monterey 12.6.3. Please feel free to report any issues such as bugs or feature recommendations.
 
 ## Usage
 
