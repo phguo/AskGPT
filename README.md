@@ -12,7 +12,7 @@ by DALL·E *"A man with his feet on the table, looking at automatically generate
 
 ## Getting Start
 
-- Make sure you are using **Alfred 5**.
+- Make sure you are using **Alfred 5** (Try [v0.5](https://github.com/phguo/AskGPT/releases/tag/v0.5) if you use Alfred 4).
 - Make sure Alfred 5 has been granted in "System Preferences -> Security & Privacy -> Privacy Tab -> Accessibility".
 - Download and install "AskGPT" from https://github.com/phguo/AskGPT/releases.
 - Set the required Environment Variables (click the top-right [x] icon):
