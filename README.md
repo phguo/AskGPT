@@ -79,3 +79,7 @@ This project is licensed under the MIT License, see the [LICENSE](https://github
 
 - This project was inspired by [AnyGPT](https://www.producthunt.com/posts/anygpt).
 - The predefined role `*polish: Revise the following sentences to make them more clear, concise, and coherent.` was designed by [reycn](https://github.com/yetone/bob-plugin-openai-polisher/pull/2) for [yetone/bob-plugin-openai-polisher](https://github.com/yetone/bob-plugin-openai-polisher).
+
+---
+
+☕️ Consider buy me a coffee if you find it helpful: https://guoph.gumroad.com/l/askgpt
