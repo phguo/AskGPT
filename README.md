@@ -23,7 +23,7 @@ by DALL·E *"A man with his feet on the table, looking at automatically generate
   - `API_BASE`: it will be like https://..**/v1 write your own openai api proxy url(default:https://api.openai.com/v1)
 - To make `\\gpt` work, see [#6](https://github.com/phguo/AskGPT/issues/6#issuecomment-1509431313).
 
-This project has only been tested on macOS Monterey 12.6.3. Please feel free to report any issues such as bugs or feature recommendations.
+__* This project has only been tested on macOS Monterey 12.6.3.__ Please feel free to report any issues such as bugs or feature recommendations.
 
 ## Usage
 
