@@ -25,6 +25,10 @@ by DALL·E *"A man with his feet on the table, looking at automatically generate
 
 __* This project has only been tested on macOS Monterey 12.6.3.__ Please feel free to report any issues such as bugs or feature recommendations.
 
+## Knwon issues
+
+- Does not work on macOS Ventura ([#8](https://github.com/phguo/AskGPT/issues/8)).
+
 ## Usage
 
 <img src="https://github.com/phguo/AskGPT/blob/main/video/alfred.png"  width="60%" height="60%">
