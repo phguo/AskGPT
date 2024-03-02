@@ -19,7 +19,7 @@ by DALL·E *"A man with his feet on the table, looking at automatically generate
   - `API_KEY`: obtain one from https://platform.openai.com/account/api-keys.
   - `PYTHON_ENV`: it will be like `/Users/<user_name>/miniconda3/bin/python` if you follow the following steps.
       - Install Python from https://docs.conda.io/en/latest/miniconda.html.
-      - Install the required Python packages by `pip install openai keyboard pyperclip`.
+      - Install the required Python packages by `pip install openai==1.13.3 keyboard==0.13.5 pyperclip==1.8.2`.
   - `API_BASE`: it will be like https://..**/v1 write your own openai api proxy url(default:https://api.openai.com/v1)
 - To make `\\gpt` work, see [#6](https://github.com/phguo/AskGPT/issues/6#issuecomment-1509431313).
 
